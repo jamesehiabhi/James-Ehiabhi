@@ -14,7 +14,6 @@ I am a certified data professional passionate about working with data.🔭 Curre
 
 
 ### Languages and Tools:
-<br clear="both">
 
 <img align="left" alt="python" width="30px" height="30px" src="Database_Files/python .png" />
 <img align="left" alt="sql" width="30px" height="30px" src="Database_Files/SQL.png" />
