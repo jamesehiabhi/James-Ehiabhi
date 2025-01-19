@@ -7,7 +7,7 @@ I am a certified data professional with a passion for working with data. 🔭 As
 
 Driven by a desire to succeed, I thrive in challenging environments and am committed to lifelong learning. My knowledge spans data science and machine learning, and I am eager to stay ahead of emerging trends.
 
-An interesting fact about me is my competitive spirit, which fuels my love for basketball and lawn tennis. ⚡
+An interesting fact about me is my competitive spirit, which fuels my love for basketball and tennis. ⚡
 
 My career objective is to contribute to a progressive organization by leveraging my technical and creative skills to drive growth while staying at the forefront of innovation. 🌟
 
