@@ -1,6 +1,6 @@
 # Hi there! 👋 My name is James 
 
-### Data Science | Machine Learning and Artificial Intelligence | Passionate about Tech | Creative Problem Solver.
+### Data Scientist | Machine Learning and Artificial Intelligence | Passionate about Tech | Creative Problem Solver.
 
 
 I am a certified data professional with a passion for working with data. 🔭 As a Data Scientist, I am actively exploring data engineering while continuously expanding my expertise in the field. I bring strong coding and problem-solving skills, along with hands-on experience using the latest technologies.
@@ -10,10 +10,12 @@ Driven by a desire to succeed, I thrive in challenging environments and am commi
 An interesting fact about me is my competitive spirit, which fuels my love for basketball and tennis. ⚡
 
 My career objective is to contribute to a progressive organization by leveraging my technical and creative skills to drive growth while staying at the forefront of innovation. 🌟
+<br><br>
 
-Let’s connect and collaborate on exciting data-driven projects. Together, we can achieve remarkable results! 🚀🚀
+### *Let’s connect and collaborate on exciting data-driven projects. Together, we can achieve remarkable results!* 🚀🚀
 
-![My Card](https://github.com/user-attachments/assets/0697a690-75ef-4b42-a73b-5a83cdaa2caf)
+<img src="https://github.com/user-attachments/assets/0697a690-75ef-4b42-a73b-5a83cdaa2caf" alt="My Card" width="600" height="150">
+
 
 <!--  <h3>Connect :</h3> -->
 <div align="left">
